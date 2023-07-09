@@ -1,0 +1,133 @@
+//metadata
+
+name: Catacula
+shortname: ctcla
+isDark: 1
+tinted: 1
+
+//Variables
+
+parent: dark
+copyright: Catppuccin
+basicAccent: #8aadf4 //blue
+background: #24273a //base
+text: #cad3f5 //text
+grayText: #b8c0e0 //subtext1
+link: #74c7e6 //sapphire
+accent: #8aadf4 //blue
+redUI: #ff5555 //red
+greenUI: #50fa7b //green
+blackTransparent: #181926 //crust
+grayTransparent: #363a4f99
+grayUI: #24273a //base
+darkGrayText: #a5adcb //subtext0
+accentSelect: #8be9fd //sky
+selectText: #8be9fd //sky
+border: #363a4f //surface0
+grayBackground: #494d64 //surface1
+grayForeground: #494d64 //surface1
+grayIcon: #50fa7b //green
+accentIcon: #ee99a0 //maroon
+badgeMuted: #8087a2 //overlay1
+badge: #ee99a0 //maroon
+monospacedCodeBubble_outgoing: #cad3f5 //text
+indicatorColor: #cad3f5 //text
+selectMessage: #24273a //base
+monospacedPre: #8aadf4 //blue
+monospacedCode: #8aadf4 //blue
+monospacedPreBubble_incoming: #cad3f5 //text
+monospacedPreBubble_outgoing: #cad3f5 //text
+monospacedCodeBubble_incoming: #cad3f5 //text
+selectTextBubble_incoming: #50fa7b //green
+selectTextBubble_outgoing: #8be9fd //sky
+bubbleBackground_incoming: #363a4f //surface0
+bubbleBackgroundTop_outgoing = #24273a //base
+bubbleBackgroundBottom_outgoing = #24273a //base
+bubbleBorder_incoming: #363a4f //surface0
+bubbleBorder_outgoing: #24273a //base
+grayTextBubble_incoming: #b8c0e0 //subtext1
+grayTextBubble_outgoing: #cad3f5 //text
+grayIconBubble_incoming: #b8c0e0 //subtext1
+grayIconBubble_outgoing: #b8c0e0 //subtext1
+accentIconBubble_incoming: #b8c0e0 //subtext1
+accentIconBubble_outgoing: #cad3f5CC
+linkBubble_incoming: #74c7e6 //sapphire
+ //sapphirelinkBubble_outgoing: #74c7e6 //sapphire
+ //sapphire #cad3f5 //textBubble_incoming: #cad3f5 //text #cad3f5 //textBubble_outgoing: #cad3f5 //text
+selectMessageBubble: #494d64 //surface1
+fileActivityBackground: #8aadf4CC
+fileActivityForeground: #cad3f5 //text
+fileActivityBackgroundBubble_incoming: #b8c0e0 //subtext1
+fileActivityBackgroundBubble_outgoing: #cad3f5 //text
+fileActivityForegroundBubble_incoming: #494d64 //surface1
+fileActivityForegroundBubble_outgoing: #8be9fd //sky
+waveformBackground: #b8c0e0B3
+waveformForeground: #8aadf4CC
+waveformBackgroundBubble_incoming: #b8c0e0 //subtext1
+waveformBackgroundBubble_outgoing: #b8c0e0 //subtext1
+waveformForegroundBubble_incoming: #cad3f5 //text
+waveformForegroundBubble_outgoing: #cad3f5 //text
+webPreviewActivity: #74c7e6 //sapphire
+ //sapphirewebPreviewActivityBubble_incoming: #cad3f5 //text
+webPreviewActivityBubble_outgoing: #cad3f5 //text
+redBubble_incoming: #ff5555 //red
+redBubble_outgoing: #ff5555 //red
+greenBubble_incoming: #50fa7b //green
+greenBubble_outgoing: #50fa7b //green
+chatReplyTitle: #74c7e6 //sapphire
+ //sapphirechatReplyTextEnabled: #cad3f5 //text
+c#8087a2yTextDisabled: #b8c0e0 //subtext1
+chatReplyTitleBubble_incoming: #cad3f5 //text
+chatReplyTitleBubble_outgoing: #cad3f5 //text
+chatReplyTextEnabledBubble_incoming: #cad3f5 //text
+chatReplyTextEnabledBubble_outgoing: #cad3f5 //text
+c#8087a2yTextDisabledBuboming: #b8c0e0 //subtext1
+c#8087a2yTextDisabledBubgoing: #b8c0e0 //subtext1
+groupPeerNameRed: #ff5555 //red
+groupPeerNameOrange: #ffb86c //peach
+groupPeerNameViolet: #bd93f9 //mauve
+groupPeerNameGreen: #8bd5ca //teal
+groupPeerNameCyan: #8bd5ca //teal
+groupPeerNameLightBlue: #74c7e6 //sapphire
+ //sapphiregroupPeerNameBlue: #8aadf4 //blue
+peerAvatarRedTop: #ffb86c //peach
+peerAvatarRedBottom: #ee99a0 //maroon
+peerAvatarOrangeTop: #f1fa8c //yellow
+peerAvatarOrangeBottom: #ffb86c //peach
+peerAvatarVioletTop: #b7bdf8 //lavender
+peerAvatarVioletBottom: #b7bdf8 //lavender
+peerAvatarGreenTop: #50fa7b //green
+peerAvatarGreenBottom: #50fa7b //green
+peerAvatarCyanTop: #8bd5ca //teal
+peerAvatarCyanBottom: #8bd5ca //teal
+peerAvatarBlueTop: #8be9fd //sky
+peerAvatarBlueBottom: #74c7e6 //sapphire
+ //sapphirepeerAvatarPinkTop: #8bd5ca //teal
+peerAvatarPinkBottom: #bd93f9 //mauve
+bubbleBackgroundHighlight_incoming: #494d64 //surface1
+bubbleBackgroundHighlight_outgoing: #8be9fd //sky
+chatDateActive: #363a4f //surface0
+c#8087a2Text: #b8c0e0 //subtext1
+revealAction_neutral1_background: #8aadf4 //blue
+revealAction_neutral1_foreground: #cad3f5 //text
+revealAction_neutral2_background: #f0c6c6 //flamingo
+revealAction_neutral2_foreground: #cad3f5 //text
+revealAction_destructive_background: #ff5555 //red
+revealAction_destructive_foreground: #cad3f5 //text
+revealAction_constructive_background: #50fa7b //green
+revealAction_constructive_foreground: #cad3f5 //text
+revealAction_accent_background: #8aadf4 //blue
+revealAction_accent_foreground: #cad3f5 //text
+revealAction_warning_background: #f0c6c6 //flamingo
+revealAction_warning_foreground: #cad3f5 //text
+revealAction_inactive_background: #494d64 //surface1
+revealAction_inactive_foreground: #cad3f5 //text
+//Parameter is usually using for minimalistic chat mode, but also works as fallback for bubbles if wallpaper not installed
+chatBackground: #363a4f //surface0
+listBackground: #363a4f //surface0
+l#8087a2Text: #b8c0e0 //subtext1
+grayHighlight: #363a4f //surface0
+focusAnimationColor: #74c7e6 //sapphire
+ //sapphirepremium: #bd93f9 //mauve
+//Parameter only affects bubble chat mode. Available values=none, builtin, hexColor or url to cloud backgound like a t.me/bg/%slug%
+wallpaper: t.me/bg/dKs_8KaE6EjOAAAAJdGVJxSR5uU
